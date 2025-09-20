@@ -4,7 +4,7 @@
 
 **1. Установка проекта**
 
-Шаг 1. Клонировать или скачать проект
+Шаг 1. Клонировать или скачать проект.
 Скачайте файлы проекта и откройте папку в терминале или PowerShell.
 
 Шаг 2. Создать виртуальное окружение
@@ -23,7 +23,7 @@ pip install -r requirements.txt
 В файле get_weather.py укажите свои параметры для подключения к базе данных:
 
 DB_USER = 'postgres'
-DB_PASSWORD = 'your_password'
+DB_PASSWORD = 'teacher'
 DB_HOST = 'localhost'
 DB_PORT = '5432'
 DB_NAME = 'weather_db'
